@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import styled, { ThemeProvider} from "styled-components"
 import WebFont from 'webfontloader'
 import './main.css'
