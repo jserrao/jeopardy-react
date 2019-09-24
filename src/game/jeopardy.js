@@ -47,7 +47,6 @@ class Jeopardy extends Component {
     // How? The .setState inside of changeQuestion. See how the data flows?
     // React automatically renders any references to state when they change, you don't have to do anything
     // The power of this is huge, allows for dynamic interfaces without all the eventHandlers
-    // And you can manage state in one place, very convenient 
     return(
       <div>
         <p>{ this.state.question }</p>
