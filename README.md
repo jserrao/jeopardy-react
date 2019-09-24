@@ -1,7 +1,6 @@
 ## React and Jeopardy
 
-Let's combine one of the classic all time 
+Let's combine one of the classic all time games, Jeopardy, with one of the classic all time front-end frameworks, React.
 
-1) Setup `create-react-app` in your `sandbox`: `npm init react-app jeopardy-react`
-2) Add `styled-components` dependency: `npm install -save styled-components`
-3) 
+Just clone this down and follow along.
+
